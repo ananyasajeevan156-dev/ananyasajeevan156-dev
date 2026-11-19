@@ -1,80 +1,85 @@
-# ananyasajeevan156-dev
-My Data Analytics Portfolio
 
-# Welcome, I'm Ananya T S 👋
+<div align="center">
 
-### Aspiring Data Analyst | Business Intelligence | Data Visualisation
+<img src="./assets/data-analytics-banner.svg" width="100%" alt="Ananya T S - Data Analytics Portfolio"/>
+
+### DATA ANALYTICS · BUSINESS INTELLIGENCE · DATA VISUALISATION
 
 *Finding the story behind the numbers.*
 
-📍 Kerala, India
+<br/>
+
+<a href="https://www.linkedin.com/in/ananya-sajeevan-335045318"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ananyasajeevan156@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-159D91?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## About Me
+## Welcome, I'm Ananya!
 
-I'm an aspiring Data Analyst, currently building my skills in data analysis, business intelligence and data visualisation.
+I'm building my career in Data Analytics, with a growing interest in understanding data, finding meaningful patterns and turning information into something people can actually use.
 
-My journey into analytics has been an interesting learning experience. As I started exploring different tools and working with datasets, I became increasingly interested in understanding what the numbers actually tell us.
+My journey into analytics has been a learning experience in itself. Working with different tools and datasets has helped me understand that data analysis is not just about numbers or dashboards. It's also about asking the right questions, being patient with the details and communicating what the results mean.
 
-I enjoy the process of exploring data, identifying patterns, organising information and presenting findings in a way that makes sense. For me, analytics is not just about creating dashboards; it's also about asking the right questions and understanding the meaning behind the results.
+I enjoy the process of taking a dataset, exploring what it contains and gradually turning it into a clearer picture. I'm still learning, experimenting and improving with every project, and that's what keeps me interested in this field.
 
-With an academic background in Functional English, I also value clear communication and the ability to explain information in a simple and meaningful way.
-
-I'm continuously learning, improving my technical skills and working towards becoming a confident Data Analyst.
+📍 Kerala, India  
+💻 Aspiring Data Analyst  
+📊 Interested in Analytics and Business Intelligence
 
 ---
 
-## Technical Skills
+## Tools I Work With
 
-**Data Analysis**
+<div align="center">
 
-- Microsoft Excel
-- SQL
-- MySQL
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-**Data Visualisation**
+</div>
 
-- Power BI
-- Tableau
+**Currently exploring**
 
-**Currently Learning**
-
-- Python for Data Analysis
-- Advanced SQL
-- DAX and Power BI
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</div>
 
 ---
 
 ## My Analytics Journey
 
-I completed Data Analytics training with ExcelR, where I had the opportunity to explore different analytical tools and apply my learning through structured projects.
+I completed Data Analytics training with ExcelR, where I had the opportunity to work with analytical tools and apply what I was learning through structured projects.
 
-Throughout this experience, I became familiar with working with datasets, creating visualisations, developing dashboards and understanding how different tools contribute to the analytical process.
+The experience helped me become more familiar with the different stages of analysis — from working with datasets and understanding their structure to building visualisations and presenting findings.
 
-More importantly, the experience helped me realise that becoming a good analyst requires more than knowing how to use software. It takes curiosity, attention to detail, logical thinking and the willingness to keep learning.
+One thing I've come to appreciate is that learning a tool is only one part of becoming an analyst. Understanding the data, checking the details and explaining the outcome are equally important.
 
-I'm now looking forward to applying these skills through individual projects and building a portfolio that reflects my own work and progress.
+I'm now focused on strengthening these skills and building individual projects that reflect my own approach to solving analytical problems.
 
 ---
 
 ## What I Bring to a Project
 
-**Analytical Thinking**
+**A structured approach to analysis**  
+I like to understand the dataset and the objective before jumping into visualisations.
 
-I enjoy exploring information, identifying patterns and understanding the questions that data can help answer.
+**Attention to detail**  
+I value checking data, understanding inconsistencies and making sure the findings are meaningful.
 
-**Attention to Detail**
+**Visual communication**  
+I enjoy presenting information through dashboards and clear visual explanations.
 
-I believe that understanding and checking the data is just as important as presenting the final results.
-
-**Visual Communication**
-
-I enjoy using dashboards and visualisations to make information easier to understand.
-
-**Communication Skills**
-
-My Functional English background has helped me appreciate the importance of presenting ideas clearly and communicating information effectively.
+**A communication-focused perspective**  
+My academic background in Functional English has made clear communication an area I value. I want my analysis to be understandable, not just technically correct.
 
 ---
 
@@ -82,61 +87,69 @@ My Functional English background has helped me appreciate the importance of pres
 
 ### Patient Healthcare Analytics
 
-**Project Type:** Collaborative Group Project
+**A collaborative analytics project**
 
-**Tools:** Excel | Tableau | MySQL
+Tools: Excel · Tableau · MySQL
 
-An analytics project focused on exploring healthcare-related datasets and presenting key findings through data analysis and visualisation.
+This project involved exploring a healthcare dataset containing patient, doctor, visit, treatment and laboratory information.
 
-The project involved working with patient, doctor, visit, treatment and laboratory information.
+Working on this project gave me an opportunity to understand how different datasets can be explored, how key indicators can be presented and how analytical findings can be communicated through dashboards.
 
-**Project Highlights**
+**Project highlights**
+- Explored healthcare-related records and key indicators.
+- Worked with Excel dashboards and PivotTables.
+- Used Tableau to present data visually.
+- Used MySQL queries for data checks and validation.
+- Collaborated with team members throughout the project.
 
-- Explored and analysed healthcare-related datasets.
-- Worked with Excel PivotTables and dashboard development.
-- Created visualisations using Tableau.
-- Used MySQL queries for data validation.
-- Explored key performance indicators and analytical findings.
+**What I learned**
 
-**My Learning Experience**
+The project helped me appreciate the importance of data consistency, clear KPI definitions and choosing visualisations that make information easier to understand.
 
-This project gave me an opportunity to work with multiple analytical tools and understand how data can be organised, validated and presented.
-
-It also helped me appreciate the importance of consistency, accurate calculations and choosing the right visualisation to communicate findings.
-
-[View Healthcare Analytics Project](https://github.com/ananyasajeevan156-dev/Patient-healthcare-analytics)
+<a href="https://github.com/ananyasajeevan156-dev/Patient-healthcare-analytics">
+<img src="https://img.shields.io/badge/Explore_Project-159D91?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
 ## Currently Learning
 
-I'm focusing on improving my technical knowledge and becoming more independent in handling analytical tasks.
+I'm working on becoming more confident and independent with the tools used in data analytics.
 
-- Strengthening SQL and query-writing skills.
-- Improving Power BI and DAX knowledge.
+- Improving SQL query writing and problem-solving.
+- Developing Power BI skills, including data modelling and DAX.
 - Practising dashboard design and data storytelling.
-- Exploring Python for data analysis.
-- Developing individual projects for my portfolio.
+- Building a stronger foundation in Python for data analysis.
+- Creating individual portfolio projects from scratch.
 
 ---
 
 ## Beyond the Numbers
 
-I believe that every dataset has something worth exploring.
+I believe good analysis should make information easier to understand.
 
-What interests me most is the process of starting with raw information, asking questions, finding patterns and gradually building a clearer understanding of what the data represents.
+I'm interested not only in finding patterns, but also in understanding why they matter and how to communicate them clearly.
 
-I'm at the beginning of my professional journey, and I'm excited about the opportunities to learn, experiment and grow through every project.
+For me, every project is an opportunity to learn something new, improve my approach and become a more thoughtful analyst.
 
 ---
 
 ## Let's Connect
 
-I'm always interested in connecting with people who share an interest in Data Analytics, Business Intelligence and continuous learning.
+I'm always open to connecting with people who share an interest in analytics, business intelligence and continuous learning.
 
-- **GitHub:** [My GitHub Profile](https://github.com/ananyasajeevan156-dev)
-- **LinkedIn:** https://www.linkedin.com/in/ananya-sajeevan-335045318/
-- **Email:** ananyasajeevan156@gmail.com
----
+<div align="center">
+
+<a href=https://www.linkedin.com/in/ananya-sajeevan-335045318/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ananyasajeevan156@gmai.com">
+<img src="https://img.shields.io/badge/Email-Get_in_Touch-159D91?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 *Learning with curiosity. Analysing with purpose. Growing with every project.*
+
+</div>

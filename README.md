@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 <img src="./assets/data-analytics-banner.svg" width="100%" alt="Ananya T S - Data Analytics Portfolio"/>
